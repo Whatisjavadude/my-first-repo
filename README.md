@@ -5,5 +5,4 @@
 
 
 
-This change is made on the update-readme branch.
-This change is made on the main branch.
+This action is for reviewing branches
